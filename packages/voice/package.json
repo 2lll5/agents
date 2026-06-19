@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/cloudflare/agents.git"
   },
+  "homepage": "https://github.com/cloudflare/agents/tree/main/packages/voice#readme",
   "bugs": {
     "url": "https://github.com/cloudflare/agents/issues"
   },
